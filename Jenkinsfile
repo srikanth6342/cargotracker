@@ -1,11 +1,8 @@
-pipeline
-{
-agent any 
-stages{
+pipeline{
+agent any
 stage('clean'){
 steps{
-sh 'mvn clean'
-}
+sh "mvn clean "
 }
 }
 }
