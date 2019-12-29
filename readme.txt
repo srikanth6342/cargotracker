@@ -18,7 +18,7 @@ GlassFish 4.  It also supports WildFly 8.
 The application is an end-to-end system for keeping track of shipping cargo. It 
 has several interfaces described in the following sections.
 
-For further details on the project, please visit:
+For further details on the project, please visit::   
 https://github.com/javaee/cargotracker
 
 Getting Started
