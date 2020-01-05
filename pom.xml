@@ -24,7 +24,7 @@
     <repositories>
         <repository>
             <id>primefaces</id>
-            <url>http://repository.primefaces.org</url>
+            <url>http://localhost:8081/nexus/content/repositories/repo_1/</url>
         </repository>
     </repositories>
 
