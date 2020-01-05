@@ -9,7 +9,7 @@
     <packaging>war</packaging>
 
     <name>cargo-tracker</name>
-    <url>https://github.com/javaee/cargotracker/</url>
+    <url>http://localhost:8081/nexus/content/repositories/repo_1/</url>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
