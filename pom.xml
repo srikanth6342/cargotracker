@@ -9,7 +9,7 @@
     <packaging>war</packaging>
 
     <name>cargo-tracker</name>
-    <url>http://localhost:8081/nexus/content/repositories/repo_1/</url>
+    <url>https://github.com/srikanth6342/cargotracker/</url>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
@@ -24,7 +24,7 @@
     <repositories>
         <repository>
             <id>primefaces</id>
-            <url>http://localhost:8081/nexus/content/repositories/repo_1/</url>
+            <url>https://github.com/srikanth6342/cargotracker/</url>
         </repository>
     </repositories>
 
