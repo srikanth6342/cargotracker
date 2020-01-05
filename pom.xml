@@ -24,7 +24,7 @@
     <repositories>
         <repository>
             <id>primefaces</id>
-            <url>https://github.com/srikanth6342/cargotracker/</url>
+            <url>http://repository.primefaces.org</url>
         </repository>
     </repositories>
 
